@@ -1,1 +1,2 @@
-# Statistical Analysis of Data - a project in `jupyter-notebook`.
+# Statistical Analysis of Data. 
+A project in `jupyter-notebook`.
